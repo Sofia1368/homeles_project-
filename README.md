@@ -7,7 +7,7 @@
     <title>Exploring Homelessness</title>
     <style>
         body {
-            font-family: 'Rockwell', serif;
+            font-family: 'Rockwell', Courier New;
             margin: 0;
             padding: 0;
             background: linear-gradient(to bottom, #ffecd2, #fcb69f);
